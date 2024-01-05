@@ -3,7 +3,7 @@ import openai
 from apikey import api_data
 
 import pyttsx3
-import speech_recognition as sr
+import speech recognition as sr
 import webbrowser
 
 openai.api_key=api_data
