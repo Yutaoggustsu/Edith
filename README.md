@@ -18,7 +18,7 @@ apt install git
 
 #clone this repository
 
-https://github.com/Yutaoggustsu/Edith.git
+git clone https://github.com/Yutaoggustsu/Edith.git
 #cd to directory allhackingtools
 
 cd Edith
