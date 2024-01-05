@@ -27,7 +27,7 @@ cd Edith
 
 python main.py
 
-** if this doesn't work then try **
+**if this doesn't work then try**
 
 python3 main.py
 ```
