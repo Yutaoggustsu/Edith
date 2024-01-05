@@ -2,10 +2,22 @@
 Your own personal ai like jarvis by tony Stark
 # Installation process 
 ## Termux 
- apt update && apt upgrade -y 
+#Upgrade all & full packages
+apt update
+apt upgrade
 
-apt install git 
+#Add your termux permision
+termux-setup-storage
 
-apt install python 
+#Install package git
+apt install git
 
-git clone 
+#clone this repository
+git clone https://github.com/mishakorzik/AllHackingTools
+
+#cd to directory allhackingtools
+cd AllHackingTools
+
+#Start script to install system
+bash Install.sh
+```
