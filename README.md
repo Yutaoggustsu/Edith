@@ -24,7 +24,7 @@ git clone https://github.com/Yutaoggustsu/Edith.git
 
 cd Edith
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 #Start script to install system
 
